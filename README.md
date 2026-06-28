@@ -1,15 +1,21 @@
 # Hi 👋 I'm Omar Ramadan
 
-📱 Aspiring Native Android Developer from Egypt 🇪🇬
+📱 **Native Android Developer** from Egypt 🇪🇬
 
-* 💙 Currently learning **Native Android Development with Kotlin**
-* 🚀 Building Android projects to strengthen my portfolio
-* 🌱 Learning **Jetpack Compose, MVVM, Coroutines, Hilt, and Clean Architecture**
+I'm a **Computer Science graduate** passionate about building Android applications with **Kotlin**. I enjoy turning ideas into real-world apps, learning modern Android technologies, and continuously improving my skills through hands-on projects.
+
+### 🚀 Currently
+
+* 💙 Building Android projects with Kotlin
+* 🌱 Learning Jetpack Compose, MVVM, Coroutines, Hilt & Clean Architecture
+* 🎯 Working toward my first Android Developer role
 
 ### 🛠️ Tech Stack
 
 **Kotlin • Android Studio • XML • Retrofit • Room • Firebase • Git • GitHub**
 
-📧 [omar.ramadan.attia@gmail.com](mailto:omar.ramadan.attia@gmail.com)
+### 📫 Connect with Me
 
-💼 https://linkedin.com/in/omar-ramadan-320a70256
+📧 **[omar.ramadan.attia@gmail.com](mailto:omar.ramadan.attia@gmail.com)**
+
+💼 **linkedin.com/in/omar-ramadan-320a70256**
